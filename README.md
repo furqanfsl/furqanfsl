@@ -1,340 +1,164 @@
-````md
-<div align="center">
+About
+
+I am a Computer Science with AI student at Brunel University London with a strong focus on software engineering, AI/ML, full stack development, data systems, and cybersecurity fundamentals. My work combines technical implementation with product thinking, clean architecture, stakeholder communication, and measurable operational impact.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=6,12,20,24,30&text=Furqan%20Faisel&fontSize=55&fontColor=ffffff&animation=fadeIn"/>
+I have hands-on experience across university, healthcare, commercial, and project-based engineering environments, including CRM data handling, process optimisation, secure record management, outreach operations, full stack application development, database-backed systems, and AI-focused academic study.
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=900&lines=Computer+Science+with+AI+Student;Software+Engineer+%7C+AI+Engineer;Full+Stack+Developer;Cybersecurity+Enthusiast;Building+Scalable+Digital+Products)](https://git.io/typing-svg)
+My engineering direction is centred on building reliable, scalable, and user-focused software products that combine strong foundations in algorithms, data structures, databases, networks, security, and modern development workflows.
 
-![Brunel University](https://img.shields.io/badge/Brunel_University-London-6D28D9?style=for-the-badge)
-![Computer Science with AI](https://img.shields.io/badge/Computer_Science_with_AI-Student-7C3AED?style=for-the-badge)
-![United Kingdom](https://img.shields.io/badge/Uxbridge-London-4F46E5?style=for-the-badge)
+Open To
 
-<a href="https://portfolio.com">
-<img src="https://img.shields.io/badge/Portfolio-Visit-8B5CF6?style=for-the-badge"/>
-</a>
+roles:
+  - Graduate Software Engineer
+  - Software Engineering Intern
+  - AI / Machine Learning Intern
+  - Data Analyst Intern
+  - Cybersecurity Intern
+  - Business Analyst Intern
 
-<a href="https://linkedin.com">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-6366F1?style=for-the-badge"/>
-</a>
-
-<a href="mailto:furqanfaiselkh@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-7C3AED?style=for-the-badge"/>
-</a>
-
-<a href="https://github.com">
-<img src="https://img.shields.io/badge/GitHub-Follow-4F46E5?style=for-the-badge"/>
-</a>
-
-![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=7C3AED)
-![](https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&color=7C3AED)
-![](https://img.shields.io/github/stars/YOUR_USERNAME?style=for-the-badge&color=7C3AED)
-
-</div>
-
----
-
-# About
-
-Computer Science with AI student at **Brunel University London** focused on building scalable software systems, AI-powered solutions, and data-driven products.
-
-I combine software engineering principles with modern AI technologies to deliver practical solutions across web applications, automation, analytics, and intelligent systems.
-
-### Open To
-
-- Software Engineering Internships
-- Graduate Software Engineer Roles
-- AI / Machine Learning Opportunities
-- Cybersecurity Internships
-- Data Analyst Roles
-- Open Source Collaboration
-
----
-
-# Tech Stack
-
-### Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,javascript,cs,sql,html,css"/>
-</p>
-
-### Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,html,css,javascript"/>
-</p>
-
-### Backend & Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=flask,nodejs,sqlite,mysql"/>
-</p>
-
-### Cloud, DevOps & Tooling
-
-<p>
-<img src="https://skillicons.dev/icons?i=docker,git,github,vscode"/>
-</p>
-
----
-
-# AI / ML Expertise
-
-| Domain | Proficiency | Details |
-|----------|------------|----------|
-| Machine Learning | Intermediate | Model development and experimentation |
-| AI Tooling | Intermediate | LLM workflows and automation |
-| Data Analytics | Intermediate | Data cleaning, reporting and insights |
-| Python Development | Advanced | Automation, backend systems and analytics |
-| Databases | Intermediate | SQL querying and relational databases |
-| Cybersecurity | Developing | Network security and CTF practice |
-
----
-
-# Featured Projects
-
-<details>
-<summary><b>Raez — Warehouse & Logistics Management Platform</b></summary>
-
-### Enterprise Logistics Management System
-
-| Category | Details |
-|-----------|---------|
-| Stack | Java, SQLite, CSS |
-| Scale | Multi-module logistics platform |
-| Performance | Real-time inventory tracking |
-| Security | Database validation and integrity |
-| Impact | Streamlined warehouse operations |
-| Repository | Private / Academic Project |
-
-Built a warehouse management solution supporting inventory tracking, delivery workflows, order processing, and logistics management. Collaborated in a full-stack team environment and transformed design prototypes into production-ready Java modules.
-
-</details>
-
-<details>
-<summary><b>Personal Finance Tracker</b></summary>
-
-### Full Stack Finance Application
-
-| Category | Details |
-|-----------|---------|
-| Stack | Python, Flask, SQLite, JavaScript |
-| Scale | Personal financial management |
-| Performance | Dynamic dashboard analytics |
-| Security | Secure database handling |
-| Impact | Spending visibility and budgeting |
-| Repository | GitHub |
-
-Developed a finance tracking application featuring expense monitoring, income management, and data visualisation through Chart.js dashboards.
-
-</details>
-
-<details>
-<summary><b>Cybersecurity Lab & CTF Portfolio</b></summary>
-
-### Security Research Environment
-
-| Category | Details |
-|-----------|---------|
-| Stack | Linux, Networking, Security Tools |
-| Scale | Self-directed learning environment |
-| Performance | Practical security simulations |
-| Security | Penetration testing methodology |
-| Impact | Hands-on cybersecurity skills |
-| Repository | Ongoing |
-
-Applied network security concepts through Capture The Flag challenges and ethical hacking exercises to strengthen practical cybersecurity capabilities.
-
-</details>
-
----
-
-# Experience
-
-## Student Ambassador — Brunel University London
-**Nov 2025 – Present**
-
-Supporting university recruitment, outreach campaigns, student engagement, and admissions activities.
-
-### Scope
-
-- Managed applicant communications and CRM updates
-- Led campus tours for prospective students
-- Supported university events and recruitment campaigns
-- Maintained visitor records and attendance tracking
-
-**Skills:** `Communication` `CRM Systems` `Data Management` `Stakeholder Engagement`
-
----
-
-## Marketing Intern — LUMS
-
-**Jul 2024 – Aug 2024**
-
-Awarded **Best Intern** for securing a sponsorship partnership independently.
-
-### Scope
-
-- Executed outreach campaigns
-- Coordinated with marketing and design teams
-- Managed stakeholder relationships
-- Delivered partnership acquisition initiatives
-
-**Skills:** `Marketing` `Business Development` `Communication`
-
----
-
-## Receptionist Intern — Shaukat Khanum Memorial Cancer Hospital
-
-**Jul 2020 – Sep 2020**
-
-Managed patient records and handled operational administrative workflows.
-
-### Scope
-
-- Maintained database records
-- Coordinated appointments
-- Managed inbound enquiries
-- Supported healthcare operations
-
-**Skills:** `Data Entry` `Database Systems` `Administration`
-
----
-
-# Achievements
-
-| Recognition | Details |
-|------------|---------|
-| Best Intern Award | Only intern to secure external sponsorship partnership |
-| Brunel Student Ambassador | Representing Brunel University at recruitment events |
-| ISOC Committee Member | Coordinating university events for 100+ attendees |
-| AI & Software Projects | Delivered multiple academic and personal projects |
-
----
-
-# Certifications
-
-### AWS
-
-![AWS](https://img.shields.io/badge/AWS-In_Progress-FF9900?style=for-the-badge)
-
-### Oracle
-
-![Oracle](https://img.shields.io/badge/Oracle-Learning-F80000?style=for-the-badge)
-
-### Cisco
-
-![Cisco](https://img.shields.io/badge/Cisco-Networking-1BA0D7?style=for-the-badge)
-
-### NPTEL
-
-![NPTEL](https://img.shields.io/badge/NPTEL-Courses-7C3AED?style=for-the-badge)
-
----
-
-# Coding Profiles
-
-<div align="center">
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge)](https://leetcode.com)
-
-[![GeeksForGeeks](https://img.shields.io/badge/GeeksForGeeks-Profile-0F9D58?style=for-the-badge)](https://geeksforgeeks.org)
-
-[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-00EA64?style=for-the-badge)](https://hackerrank.com)
-
-[![CodeChef](https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge)](https://codechef.com)
-
-</div>
-
----
-
-# GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
-
-</div>
-
----
-
-# GitHub Trophies
-
-<div align="center">
-
-![](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&row=1&column=7)
-
-</div>
-
----
-
-# Contribution Activity
-
-<div align="center">
-
-![](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night)
-
-</div>
-
----
-
-# Contribution Snake
-
-<div align="center">
-
-![Snake animation](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
-
-</div>
-
----
-
-# Current Focus
-
-```yaml
-learning:
-  - Machine Learning
-  - System Design
-  - Cloud Engineering
-  - Cybersecurity
-
-building:
-  - AI Projects
-  - Full Stack Applications
-  - Open Source Contributions
-
-exploring:
-  - LLM Workflows
-  - Data Engineering
-  - DevOps
-
-open_to:
-  - Graduate Roles
-  - Internships
-  - Collaboration
-  - Open Source
-````
-
----
-
-# Connect
-
-<p align="center">
-
-<a href="mailto:furqanfaiselkh@gmail.com">Gmail</a> • <a href="https://linkedin.com">LinkedIn</a> • <a href="https://github.com">GitHub</a> • <a href="https://portfolio.com">Portfolio</a>
-
-</p>
-
----
-
-<div align="center">
-
-*"Engineering intelligent systems that create measurable impact."*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=6,12,20,24,30"/>
-
-</div>
-```
+interests:
+  - Full Stack Development
+  - AI / ML Systems
+  - Secure Software Engineering
+  - Data-Driven Products
+  - Cloud & DevOps
+  - Open Source Engineering
+Tech Stack
+Languages
+Frontend
+Backend & Databases
+Cloud, DevOps & Tooling
+AI / ML Expertise
+Domain	Proficiency	Details
+Machine Learning Foundations	Intermediate	Studying AI as part of Computer Science with AI, with focus on intelligent systems, model reasoning, and applied ML concepts.
+Python for AI & Data	Intermediate	Using Python for software development, automation, data handling, and full stack backend implementation.
+Data Analysis	Intermediate	Experience with data entry, data management, database systems, research, reporting, and process optimisation.
+AI Tooling	Developing	Actively building technical skills with AI tools, software workflows, and practical engineering use cases.
+Cybersecurity & Ethical Hacking	Developing	Self-studying network security, penetration testing concepts, and CTF-based practical exercises.
+Product Engineering	Strong	Focused on building usable, scalable, and maintainable systems with clear business and user value.
+Featured Projects
+
+A full-stack logistics and warehouse management platform designed to support inventory tracking, deliveries, order processing, and warehouse operations through a Java-based application backed by SQLite.
+
+Attribute	Details
+Stack	Java, SQLite, CSS, Figma, DB Browser for SQLite
+Scale	Multi-module group project covering warehouse, delivery, order, and frontend modules
+Performance	Real-time stock-level visibility and order fulfilment workflows
+Security	Database-backed records with structured data validation and controlled operational flows
+Impact	Converted a prototype into a complete downloadable application for logistics management
+Repository	Academic Group Project
+
+Built the warehouse management module by translating the team's Figma prototype into a functional Java application. Converted an initial React-style UI concept into a native Java implementation while preserving design consistency across the application rewrite. Debugged integration issues across merged features and validated database behaviour using DB Browser for SQLite.
+
+A full-stack web application for tracking income, expenses, and spending patterns through a clean Flask backend, SQLite database, and interactive JavaScript dashboard.
+
+Attribute	Details
+Stack	Python, Flask, HTML, CSS, JavaScript, SQLite, Chart.js
+Scale	Personal finance management web application
+Performance	Lightweight backend with responsive dashboard visualisation
+Security	Local database persistence with structured financial records
+Impact	Helps users understand income, expenses, and spending trends
+Repository	Portfolio Project
+
+Developed a database-backed financial tracking system using Python and Flask, with SQLite for persistent storage and Chart.js for visual spending insights. The project demonstrates full stack fundamentals across routing, templating, data storage, frontend presentation, and product-focused usability.
+
+An independent self-study track focused on network security, penetration testing fundamentals, ethical hacking, and CTF-based practical learning.
+
+Attribute	Details
+Stack	Linux, Networking, Security Tools, CTF Platforms
+Scale	Ongoing independent cybersecurity learning pathway
+Performance	Practical security knowledge reinforced through hands-on challenges
+Security	Focused on ethical hacking, network defence, and responsible testing
+Impact	Strengthens secure engineering mindset alongside formal CS coursework
+Repository	Ongoing Self-Study
+
+Completing network security and penetration testing modules independently while applying concepts through CTF challenges. This work supports a broader engineering goal of writing secure software and understanding how systems fail under real-world attack patterns.
+
+Experience
+Student Ambassador — Brunel University London
+
+Nov 2025 – Present
+
+Represent Brunel University London across recruitment, outreach, events, applicant support, and student-facing operations.
+
+Contact prospective students during UCAS Clearing campaigns and communicate course availability, entry requirements, and enrolment guidance.
+Record call outcomes and update applicant data in university CRM systems while maintaining accuracy across high-volume interactions.
+Lead campus tours for groups of 50–80 prospective students and families, answering live questions and keeping sessions on schedule.
+Support recruitment desks, open days, visitor sign-ins, event logistics, attendance tracking, and applicant outreach initiatives.
+Contribute to marketing and outreach campaigns across on-campus and social media channels.
+
+Stakeholder Communication CRM Systems Data Accuracy Public Speaking Events Operations Outreach
+
+Marketing Intern — LUMS, Lahore University of Management Sciences
+
+Jul 2024 – Aug 2024
+
+Delivered cross-functional marketing and sponsorship outreach work in a fast-paced university environment.
+
+Independently identified and closed a new sponsorship partnership, earning the Best Intern Award across the full cohort.
+Coordinated with marketing, design, and logistics teams to deliver outreach campaigns within scope and deadline.
+Supported partnership development, campaign execution, and stakeholder communication.
+
+Marketing Strategy Sponsorship Outreach Stakeholder Management Campaign Delivery Team Coordination
+
+Receptionist Intern — Shaukat Khanum Memorial Cancer Hospital
+
+Jul 2020 – Sep 2020
+
+Supported patient-facing operations, appointment handling, data management, and confidential record workflows in a regulated healthcare environment.
+
+Maintained accurate patient records and appointment schedules across internal database systems.
+Handled high volumes of inbound enquiries and directed patients to the correct departments.
+Supported reception operations while upholding confidentiality and professional communication standards.
+
+Data Management Database Systems Healthcare Operations Confidentiality Communication Process Support
+
+Achievements
+Recognition	Details
+Best Intern Award — LUMS	Awarded across the full internship cohort after independently securing a sponsorship partnership.
+Sponsorship Partnership Secured	Identified and closed external funding support during marketing internship.
+Campus Leadership	Led tours for groups of 50–80 prospective students and families at Brunel University London.
+Community Event Operations	Coordinated weekly sessions and large-scale events for 100+ attendees as an ISOC Committee Member.
+Full Stack Project Delivery	Built and contributed to database-backed software projects using Java, Python, Flask, SQLite, and frontend technologies.
+Certifications
+AWS
+Oracle
+NPTEL
+Cisco
+Coding Profiles
+GitHub Analytics
+GitHub Trophies
+Contribution Activity
+Contribution Snake
+Current Focus
+Learning:
+  - Advanced software engineering principles
+  - Algorithms and data structures
+  - AI and machine learning systems
+  - Networks, security, and ethical hacking
+  - Cloud, DevOps, and deployment workflows
+
+Building:
+  - Full stack web applications
+  - Database-backed software systems
+  - AI-assisted developer workflows
+  - Secure and scalable engineering projects
+  - Open source portfolio projects
+
+Exploring:
+  - Applied machine learning
+  - Cybersecurity labs and CTF challenges
+  - Product engineering
+  - Data analytics and automation
+  - Enterprise software architecture
+
+Open To:
+  - Graduate software engineering roles
+  - Software development internships
+  - AI / ML internships
+  - Data analysis internships
+  - Cybersecurity internships
+  - Open source collaboration
+Connect
+
+Engineering reliable software, intelligent systems, and secure digital products with purpose, precision, and impact.
