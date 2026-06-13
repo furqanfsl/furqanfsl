@@ -55,8 +55,7 @@ My engineering direction is centred on building reliable, scalable, and user-foc
 
 **Open To**
 
-```yaml
-roles:
+<pre><code class="language-yaml">roles:
   - Graduate Software Engineer
   - Software Engineering Intern
   - AI / Machine Learning Intern
@@ -71,7 +70,7 @@ interests:
   - Data-Driven Products
   - Cloud & DevOps
   - Open Source Engineering
-```
+</code></pre>
 
 ---
 
@@ -116,7 +115,7 @@ interests:
 | Python for AI & Data            | Intermediate | Using Python for software development, automation, data handling, and full stack backend implementation.                      |
 | Data Analysis                   | Intermediate | Experience with data entry, data management, database systems, research, reporting, and process optimisation.                 |
 | AI Tooling                      |   Developing | Actively building technical skills with AI tools, software workflows, and practical engineering use cases.                    |
-| Cybersecurity & Ethical Hacking |   Developing | Self-studying network security, penetration testing concepts, and CTF-based practical exercises.                              |
+| Cybersecurity & Ethical Hacking |   Developing | Self-studying network security, ethical hacking concepts, and CTF-based practical exercises.                                  |
 | Product Engineering             |       Strong | Focused on building usable, scalable, and maintainable systems with clear business and user value.                            |
 
 ---
@@ -172,18 +171,18 @@ Developed a database-backed financial tracking system using Python and Flask, wi
 
 <br />
 
-An independent self-study track focused on network security, penetration testing fundamentals, ethical hacking, and CTF-based practical learning.
+An independent self-study track focused on network security, ethical hacking fundamentals, responsible security practice, and CTF-based learning.
 
-| Attribute   | Details                                                               |
-| ----------- | --------------------------------------------------------------------- |
-| Stack       | Linux, Networking, Security Tools, CTF Platforms                      |
-| Scale       | Ongoing independent cybersecurity learning pathway                    |
-| Performance | Practical security knowledge reinforced through hands-on challenges   |
-| Security    | Focused on ethical hacking, network defence, and responsible testing  |
-| Impact      | Strengthens secure engineering mindset alongside formal CS coursework |
-| Repository  | Ongoing Self-Study                                                    |
+| Attribute   | Details                                                                 |
+| ----------- | ----------------------------------------------------------------------- |
+| Stack       | Linux, Networking, Security Tools, CTF Platforms                        |
+| Scale       | Ongoing independent cybersecurity learning pathway                      |
+| Performance | Practical security knowledge reinforced through hands-on challenges     |
+| Security    | Focused on secure engineering, network defence, and responsible testing |
+| Impact      | Strengthens secure engineering mindset alongside formal CS coursework   |
+| Repository  | Ongoing Self-Study                                                      |
 
-Completing network security and penetration testing modules independently while applying concepts through CTF challenges. This work supports a broader engineering goal of writing secure software and understanding how systems fail under real-world attack patterns.
+Completing network security and ethical hacking modules independently while applying concepts through CTF challenges. This work supports a broader engineering goal of writing secure software and understanding how systems fail under real-world attack patterns.
 
 </details>
 
@@ -257,48 +256,27 @@ Supported patient-facing operations, appointment handling, data management, and 
 
 ---
 
-## Certifications
+## Certifications & Learning Paths
 
 ### AWS
 
-<img src="https://img.shields.io/badge/AWS-Cloud%20Foundations-111827?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900" />
-<img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner%20Path-111827?style=for-the-badge&logo=amazonaws&logoColor=A78BFA" />
+<img src="https://img.shields.io/badge/AWS-Cloud%20Learning%20Path-111827?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900" />
+<img src="https://img.shields.io/badge/AWS-Cloud%20Foundations-111827?style=for-the-badge&logo=amazonaws&logoColor=A78BFA" />
 
 ### Oracle
 
-<img src="https://img.shields.io/badge/Oracle-Database%20Foundations-111827?style=for-the-badge&logo=oracle&logoColor=F80000" />
-<img src="https://img.shields.io/badge/Oracle-Java%20Foundations-111827?style=for-the-badge&logo=oracle&logoColor=C084FC" />
+<img src="https://img.shields.io/badge/Oracle-Database%20Learning-111827?style=for-the-badge&logo=oracle&logoColor=F80000" />
+<img src="https://img.shields.io/badge/Oracle-Java%20Learning-111827?style=for-the-badge&logo=oracle&logoColor=C084FC" />
 
 ### NPTEL
 
-<img src="https://img.shields.io/badge/NPTEL-Programming%20%26%20CS%20Fundamentals-111827?style=for-the-badge&logo=bookstack&logoColor=8B5CF6" />
+<img src="https://img.shields.io/badge/NPTEL-CS%20Fundamentals-111827?style=for-the-badge&logo=bookstack&logoColor=8B5CF6" />
 <img src="https://img.shields.io/badge/NPTEL-Data%20Science%20Learning-111827?style=for-the-badge&logo=academia&logoColor=A78BFA" />
 
 ### Cisco
 
 <img src="https://img.shields.io/badge/Cisco-Networking%20Basics-111827?style=for-the-badge&logo=cisco&logoColor=1BA0D7" />
-<img src="https://img.shields.io/badge/Cisco-Cybersecurity%20Essentials-111827?style=for-the-badge&logo=cisco&logoColor=6366F1" />
-
----
-
-## Coding Profiles
-
-<div align="center">
-
-<a href="https://leetcode.com/">
-  <img src="https://img.shields.io/badge/LeetCode-111827?style=for-the-badge&logo=leetcode&logoColor=FFA116" />
-</a>
-<a href="https://www.geeksforgeeks.org/">
-  <img src="https://img.shields.io/badge/GeeksforGeeks-111827?style=for-the-badge&logo=geeksforgeeks&logoColor=2F8D46" />
-</a>
-<a href="https://www.hackerrank.com/">
-  <img src="https://img.shields.io/badge/HackerRank-111827?style=for-the-badge&logo=hackerrank&logoColor=00EA64" />
-</a>
-<a href="https://www.codechef.com/">
-  <img src="https://img.shields.io/badge/CodeChef-111827?style=for-the-badge&logo=codechef&logoColor=A78BFA" />
-</a>
-
-</div>
+<img src="https://img.shields.io/badge/Cisco-Cybersecurity%20Learning-111827?style=for-the-badge&logo=cisco&logoColor=6366F1" />
 
 ---
 
@@ -318,16 +296,6 @@ Supported patient-facing operations, appointment handling, data management, and 
 
 ---
 
-## GitHub Trophies
-
-<div align="center">
-
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=furqanfsl&theme=discord&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=7" />
-
-</div>
-
----
-
 ## Contribution Activity
 
 <div align="center">
@@ -342,7 +310,11 @@ Supported patient-facing operations, appointment handling, data management, and 
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/furqanfsl/furqanfsl/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/furqanfsl/furqanfsl/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/furqanfsl/furqanfsl/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/furqanfsl/furqanfsl/output/github-contribution-grid-snake.svg" />
+</picture>
 
 </div>
 
@@ -350,8 +322,7 @@ Supported patient-facing operations, appointment handling, data management, and 
 
 ## Current Focus
 
-```yaml
-Learning:
+<pre><code class="language-yaml">Learning:
   - Advanced software engineering principles
   - Algorithms and data structures
   - AI and machine learning systems
@@ -379,7 +350,7 @@ Open To:
   - Data analysis internships
   - Cybersecurity internships
   - Open source collaboration
-```
+</code></pre>
 
 ---
 
