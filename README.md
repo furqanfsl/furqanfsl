@@ -51,7 +51,7 @@
 
 I am a **Computer Science with AI student at Brunel University London** with a strong focus on **software engineering, AI/ML, full stack development, data systems, and cybersecurity fundamentals**. My work combines technical implementation with product thinking, clean architecture, stakeholder communication, and measurable operational impact.
 
-Alongside my degree, I work at Brunel University London as a **Lead Student Ambassador** and as a **ResLife Ambassador managing Student Living**. My experience spans student recruitment, outreach, healthcare administration, commercial marketing, and full stack development.
+Alongside my degree, I work at Brunel University London as a **Lead Student Ambassador** and as a **ResLife Ambassador in Student Living**. My experience spans student recruitment, outreach, healthcare administration, commercial marketing, and full stack development.
 
 My engineering direction is centred on building reliable, scalable, and user-focused software products that combine strong foundations in **algorithms, data structures, databases, networks, security, and modern development workflows**.
 
@@ -208,7 +208,9 @@ Promoted from Student Ambassador, a role held since **November 2025**.
 
 **Brunel University London**<br />13 September 2026 – Present
 
-Manage **Student Living** as a ResLife Ambassador.
+* Support day-to-day work in the **Student Living office**.
+* Visit university accommodation to check in with students and listen to their concerns and complaints.
+* Report students' concerns and accommodation issues to the Student Living team for follow-up.
 
 ### Marketing Intern
 
