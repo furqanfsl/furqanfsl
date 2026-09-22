@@ -1,0 +1,79 @@
+name: Update profile analytics
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "37 3 * * *"
+  push:
+    branches: [main]
+    paths:
+      - .github/workflows/profile-analytics.yml
+      - scripts/activity-graph.mjs
+      - scripts/activity-graph.test.mjs
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-analytics
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Check out profile
+        uses: actions/checkout@d23441a48e516b6c34aea4fa41551a30e30af803 # v6
+        with:
+          ref: main
+          fetch-depth: 0
+
+      - name: Set up Node.js
+        uses: actions/setup-node@249970729cb0ef3589644e2896645e5dc5ba9c38 # v6
+        with:
+          node-version: "24"
+
+      - name: Test activity graph
+        run: node --test scripts/activity-graph.test.mjs
+
+      - name: Generate stats card
+        uses: stats-organization/github-readme-stats-action@5527bc46e6e88a882f15cd39e5290c5cd812e14c
+        with:
+          card: stats
+          options: username=${{ github.repository_owner }}&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=E5E7EB&disable_animations=true
+          path: profile/stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          core_version: "2.2.0"
+          fail_on_error: "true"
+
+      - name: Generate languages card
+        uses: stats-organization/github-readme-stats-action@5527bc46e6e88a882f15cd39e5290c5cd812e14c
+        with:
+          card: top-langs
+          options: username=${{ github.repository_owner }}&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=E5E7EB&card_width=420&disable_animations=true
+          path: profile/top-langs.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          core_version: "2.2.0"
+          fail_on_error: "true"
+
+      - name: Generate contribution activity
+        run: node scripts/activity-graph.mjs
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_USERNAME: ${{ github.repository_owner }}
+
+      # Publish only after every generator succeeds. On failure the previous
+      # committed SVGs remain available, rather than becoming broken embeds.
+      - name: Commit refreshed images
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile/stats.svg profile/top-langs.svg profile/activity.svg profile/activity-mobile.svg
+          if git diff --cached --quiet; then
+            echo "Profile analytics are already up to date."
+            exit 0
+          fi
+          git commit -m "chore: refresh profile analytics"
+          git pull --rebase origin main
+          git push origin HEAD:main
