@@ -10,7 +10,11 @@
 
 <img src="https://img.shields.io/badge/BSc%20Computer%20Science%20with%20AI-Brunel%20University%20London-4f46e5?style=flat-square&logo=academia&logoColor=white" />
 <img src="https://img.shields.io/badge/Software%20Engineering-AI%20%7C%20Data%20%7C%20Security-7c3aed?style=flat-square&logo=codeforces&logoColor=white" />
-<img src="https://img.shields.io/badge/Student%20Ambassador-Brunel%20University-6366f1?style=flat-square&logo=googleclassroom&logoColor=white" />
+
+<br />
+
+<img src="https://img.shields.io/badge/Lead%20Student%20Ambassador-Brunel%20University%20London-6366f1?style=flat-square&logo=googleclassroom&logoColor=white" alt="Lead Student Ambassador at Brunel University London" />
+<img src="https://img.shields.io/badge/ResLife%20Ambassador-Student%20Living-7c3aed?style=flat-square&logoColor=white" alt="ResLife Ambassador, Student Living at Brunel University London" />
 
 <br />
 
@@ -47,7 +51,7 @@
 
 I am a **Computer Science with AI student at Brunel University London** with a strong focus on **software engineering, AI/ML, full stack development, data systems, and cybersecurity fundamentals**. My work combines technical implementation with product thinking, clean architecture, stakeholder communication, and measurable operational impact.
 
-I have hands-on experience across **university, healthcare, commercial, and project-based engineering environments**, including CRM data handling, process optimisation, secure record management, outreach operations, full stack application development, database-backed systems, and AI-focused academic study.
+Alongside my degree, I work at Brunel University London as a **Lead Student Ambassador** and as a **ResLife Ambassador managing Student Living**. My experience spans student recruitment, outreach, healthcare administration, commercial marketing, and full stack development.
 
 My engineering direction is centred on building reliable, scalable, and user-focused software products that combine strong foundations in **algorithms, data structures, databases, networks, security, and modern development workflows**.
 
@@ -190,53 +194,35 @@ Completing network security and ethical hacking modules independently while appl
 
 ## Experience
 
-### Student Ambassador — Brunel University London
+### Lead Student Ambassador
 
-**Nov 2025 – Present**
+**Brunel University London**<br />21 September 2026 – Present
 
-Represent Brunel University London across recruitment, outreach, events, applicant support, and student-facing operations.
+Promoted from Student Ambassador, a role held since **November 2025**.
 
-* Contact prospective students during UCAS Clearing campaigns and communicate course availability, entry requirements, and enrolment guidance.
-* Record call outcomes and update applicant data in university CRM systems while maintaining accuracy across high-volume interactions.
-* Lead campus tours for groups of 50–80 prospective students and families, answering live questions and keeping sessions on schedule.
-* Support recruitment desks, open days, visitor sign-ins, event logistics, attendance tracking, and applicant outreach initiatives.
-* Contribute to marketing and outreach campaigns across on-campus and social media channels.
+* Lead campus tours for **50–80 prospective students and families**, answering questions and keeping sessions on schedule.
+* Support UCAS Clearing enquiries on courses, entry requirements, and enrolment; maintain accurate applicant records in university CRM systems.
+* Support open days, event logistics, and outreach campaigns on campus and social media.
 
-<br />
+### ResLife Ambassador
 
-`Stakeholder Communication` `CRM Systems` `Data Accuracy` `Public Speaking` `Events` `Operations` `Outreach`
+**Brunel University London**<br />13 September 2026 – Present
 
-<br />
+Manage **Student Living** as a ResLife Ambassador.
 
-### Marketing Intern — LUMS, Lahore University of Management Sciences
+### Marketing Intern
 
-**Jul 2024 – Aug 2024**
+**Lahore University of Management Sciences (LUMS)**<br />July–August 2024
 
-Delivered cross-functional marketing and sponsorship outreach work in a fast-paced university environment.
-
-* Independently identified and closed a new sponsorship partnership, earning the **Best Intern Award** across the full cohort.
+* Independently secured a sponsorship partnership and received the **Best Intern Award** across the internship cohort.
 * Coordinated with marketing, design, and logistics teams to deliver outreach campaigns within scope and deadline.
-* Supported partnership development, campaign execution, and stakeholder communication.
 
-<br />
+### Receptionist Intern
 
-`Marketing Strategy` `Sponsorship Outreach` `Stakeholder Management` `Campaign Delivery` `Team Coordination`
+**Shaukat Khanum Memorial Cancer Hospital**<br />July–September 2020
 
-<br />
-
-### Receptionist Intern — Shaukat Khanum Memorial Cancer Hospital
-
-**Jul 2020 – Sep 2020**
-
-Supported patient-facing operations, appointment handling, data management, and confidential record workflows in a regulated healthcare environment.
-
-* Maintained accurate patient records and appointment schedules across internal database systems.
-* Handled high volumes of inbound enquiries and directed patients to the correct departments.
-* Supported reception operations while upholding confidentiality and professional communication standards.
-
-<br />
-
-`Data Management` `Database Systems` `Healthcare Operations` `Confidentiality` `Communication` `Process Support`
+* Maintained patient records and appointment schedules in internal database systems while protecting confidentiality.
+* Handled high volumes of inbound enquiries, directed patients to the appropriate departments, and supported reception operations.
 
 ---
 
@@ -248,7 +234,7 @@ Supported patient-facing operations, appointment handling, data management, and 
 | ----------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
 | **Best Intern Award — LUMS**        | Awarded across the full internship cohort after independently securing a sponsorship partnership.                        |
 | **Sponsorship Partnership Secured** | Identified and closed external funding support during marketing internship.                                              |
-| **Campus Leadership**               | Led tours for groups of 50–80 prospective students and families at Brunel University London.                             |
+| **Student Leadership**              | Promoted to Lead Student Ambassador at Brunel University London; also serve as a ResLife Ambassador in Student Living.   |
 | **Community Event Operations**      | Coordinated weekly sessions and large-scale events for 100+ attendees as an ISOC Committee Member.                       |
 | **Full Stack Project Delivery**     | Built and contributed to database-backed software projects using Java, Python, Flask, SQLite, and frontend technologies. |
 
