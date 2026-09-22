@@ -285,7 +285,7 @@ Supported patient-facing operations, appointment handling, data management, and 
 <div align="center">
 
 <img width="420" src="./profile/stats.svg" alt="Furqan Faisel's GitHub statistics" />
-<img width="420" src="https://streak-stats.demolab.com?user=furqanfsl&theme=midnight-purple&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=C084FC" alt="Furqan Faisel's GitHub contribution streak" />
+<img width="420" src="https://streak-stats.demolab.com?user=furqanfsl&theme=midnight-purple&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=C084FC&sideNums=A78BFA&sideLabels=A78BFA&dates=E5E7EB&card_width=420&disable_animations=true" alt="Furqan Faisel's GitHub contribution streak" />
 
 <br />
 <br />

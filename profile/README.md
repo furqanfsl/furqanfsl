@@ -17,8 +17,9 @@ visible. No personal access token or external deployment is required.
 - The workflow uses the repository-scoped `GITHUB_TOKEN`, not a personal token
   with access to private repositories. Counts can differ from a signed-in view
   of your profile and from services with different date ranges or caches.
-- The existing live streak card and contribution-snake workflow are unchanged.
-  Analytics stay on `main`, separate from the snake's `output` branch.
+- The streak card still uses its working live service, with animations disabled
+  and explicit readable text colors. The contribution-snake workflow is unchanged.
+  Generated analytics stay on `main`, separate from the snake's `output` branch.
 
 ## Local checks
 
