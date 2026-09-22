@@ -284,13 +284,13 @@ Supported patient-facing operations, appointment handling, data management, and 
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=furqanfsl&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=E5E7EB" />
-<img width="49%" src="https://streak-stats.demolab.com?user=furqanfsl&theme=midnight-purple&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=C084FC" />
+<img width="420" src="./profile/stats.svg" alt="Furqan Faisel's GitHub statistics" />
+<img width="420" src="https://streak-stats.demolab.com?user=furqanfsl&theme=midnight-purple&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=C084FC" alt="Furqan Faisel's GitHub contribution streak" />
 
 <br />
 <br />
 
-<img width="58%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=furqanfsl&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=E5E7EB" />
+<img width="420" src="./profile/top-langs.svg" alt="Furqan Faisel's most used languages in public repositories" />
 
 </div>
 
@@ -300,7 +300,12 @@ Supported patient-facing operations, appointment handling, data management, and 
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=furqanfsl&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=C084FC&area=true&hide_border=true" />
+<picture>
+  <source media="(max-width: 600px)" srcset="./profile/activity-mobile.svg" />
+  <img width="720" src="./profile/activity.svg" alt="Contribution activity for Furqan Faisel over the last 31 UTC days" />
+</picture>
+
+[View contribution history](https://github.com/furqanfsl?tab=overview) · [Image refresh status](https://github.com/furqanfsl/furqanfsl/actions/workflows/profile-analytics.yml)
 
 </div>
 
