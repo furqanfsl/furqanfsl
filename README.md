@@ -124,42 +124,6 @@ interests:
 
 ---
 
-## Experience
-
-### Lead Student Ambassador
-
-**Brunel University London**<br />21 September 2026 – Present
-
-Promoted from Student Ambassador, a role held since **November 2025**.
-
-* Lead campus tours for **50–80 prospective students and families**, answering questions and keeping sessions on schedule.
-* Support UCAS Clearing enquiries on courses, entry requirements, and enrolment; maintain accurate applicant records in university CRM systems.
-* Support open days, event logistics, and outreach campaigns on campus and social media.
-
-### ResLife Ambassador
-
-**Brunel University London**<br />13 September 2026 – Present
-
-* Support day-to-day work in the **Student Living office**.
-* Visit university accommodation to check in with students and listen to their concerns and complaints.
-* Report students' concerns and accommodation issues to the Student Living team for follow-up.
-
-### Marketing Intern
-
-**Lahore University of Management Sciences (LUMS)**<br />July–August 2024
-
-* Independently secured a sponsorship partnership and received the **Best Intern Award** across the internship cohort.
-* Coordinated with marketing, design, and logistics teams to deliver outreach campaigns within scope and deadline.
-
-### Receptionist Intern
-
-**Shaukat Khanum Memorial Cancer Hospital**<br />July–September 2020
-
-* Maintained patient records and appointment schedules in internal database systems while protecting confidentiality.
-* Handled high volumes of inbound enquiries, directed patients to the appropriate departments, and supported reception operations.
-
----
-
 ## Achievements
 
 <div align="center">
@@ -173,30 +137,6 @@ Promoted from Student Ambassador, a role held since **November 2025**.
 | **Full Stack Project Delivery**     | Built and contributed to database-backed software projects using Java, Python, Flask, SQLite, and frontend technologies. |
 
 </div>
-
----
-
-## Certifications & Learning Paths
-
-### AWS
-
-<img src="https://img.shields.io/badge/AWS-Cloud%20Learning%20Path-111827?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900" />
-<img src="https://img.shields.io/badge/AWS-Cloud%20Foundations-111827?style=for-the-badge&logo=amazonaws&logoColor=A78BFA" />
-
-### Oracle
-
-<img src="https://img.shields.io/badge/Oracle-Database%20Learning-111827?style=for-the-badge&logo=oracle&logoColor=F80000" />
-<img src="https://img.shields.io/badge/Oracle-Java%20Learning-111827?style=for-the-badge&logo=oracle&logoColor=C084FC" />
-
-### NPTEL
-
-<img src="https://img.shields.io/badge/NPTEL-CS%20Fundamentals-111827?style=for-the-badge&logo=bookstack&logoColor=8B5CF6" />
-<img src="https://img.shields.io/badge/NPTEL-Data%20Science%20Learning-111827?style=for-the-badge&logo=academia&logoColor=A78BFA" />
-
-### Cisco
-
-<img src="https://img.shields.io/badge/Cisco-Networking%20Basics-111827?style=for-the-badge&logo=cisco&logoColor=1BA0D7" />
-<img src="https://img.shields.io/badge/Cisco-Cybersecurity%20Learning-111827?style=for-the-badge&logo=cisco&logoColor=6366F1" />
 
 ---
 
